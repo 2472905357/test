@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LGUnit_Example' do
+  pod 'LGUnit', :path => '../'
+
+  target 'LGUnit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

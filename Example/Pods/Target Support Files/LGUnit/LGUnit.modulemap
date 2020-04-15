@@ -1,0 +1,6 @@
+framework module LGUnit {
+  umbrella header "LGUnit-umbrella.h"
+
+  export *
+  module * { export * }
+}

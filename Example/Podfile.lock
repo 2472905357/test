@@ -1,0 +1,16 @@
+PODS:
+  - LGUnit (0.1.0)
+
+DEPENDENCIES:
+  - LGUnit (from `../`)
+
+EXTERNAL SOURCES:
+  LGUnit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LGUnit: 9adbc1b222ff5a07a7f6f471a1d6ab312ceb3115
+
+PODFILE CHECKSUM: ac9479bca586a51227117a7873a2e9960a756aa8
+
+COCOAPODS: 1.5.3
